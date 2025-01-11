@@ -1,2 +1,2 @@
-# PublishSubscriberUniversity
+# Publish Subscriber
 Computer Networks Project
